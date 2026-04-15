@@ -1,4 +1,4 @@
-# Mini Calculator (C++)
+# Multi-File Mini Calculator (C++)
 
 A simple multi-file calculator built in C++.
 
